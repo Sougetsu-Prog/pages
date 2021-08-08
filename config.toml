@@ -81,3 +81,8 @@ paginate = 10
   # lastfm="*"
   # discogs="*"
   # keybase="*"
+[language]
+  hasCJKLanguage = true
+
+[time]
+  timeZone = "Asia/Tokyo"
