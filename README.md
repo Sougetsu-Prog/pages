@@ -1,2 +1,2 @@
 # pages
-A repository for GitHub Pages
+A repository for (GitHub Pages)[https://sougetsu-prog.github.io/pages/]
