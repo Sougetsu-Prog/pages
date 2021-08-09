@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sougetsu-prog.github.io/pages/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sougetsu-prog.github.io/pages/post/test/</loc>
     <lastmod>2021-08-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -13,6 +10,9 @@
   </url><url>
     <loc>https://sougetsu-prog.github.io/pages/post/</loc>
     <lastmod>2021-08-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sougetsu-prog.github.io/pages/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sougetsu-prog.github.io/pages/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
