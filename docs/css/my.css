@@ -7,12 +7,23 @@
 .header h1 {
   font-family: Lato, 'Helvetica Neue';
   font-weight: 700;
+  color: #0E1921;
 }
 
 #menu {
   font-family: Lato, 'Helvetica Neue';
+  background: #0E1921;
+  padding: 0.7em;
 }
 
 #menu .brand {
   font-family: Lato, 'Helvetica Neue';
+}
+
+article {
+  padding: 15px;
+}
+
+a {
+  color: #000044;
 }

@@ -6,6 +6,7 @@ author = "Sougetsu"
 copyright = "&copy; 2021. All rights reserved."
 canonifyurls = true
 publishDir = "docs"
+summaryLength = 30 # display less summary
 paginate = 10
 
 [indexes]
@@ -54,7 +55,7 @@ paginate = 10
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  # twitter="*"
+  twitter="novemProgNb"
   # gnusocial="*"
   # facebook="*"
   # weibo="*"
